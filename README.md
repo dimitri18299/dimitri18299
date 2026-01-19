@@ -1,59 +1,56 @@
-README – BUT Informatique 1ʳᵉ année
+README – BUT Informatique 1ʳᵉ année - IUT du Limousin
 
-IUT du Limousin
+Informations générales :
 
-Informations générales
+-Formation : BUT Informatique
 
-Formation : BUT Informatique
+-Année : 1ʳᵉ année
 
-Année : 1ʳᵉ année
+-Établissement : IUT du Limousin
 
-Établissement : IUT du Limousin
+-Étudiant : Ducloux Dimitri
 
-Étudiant : Ducloux Dimitri
+-Année universitaire : 2025 – 2026
 
-Année universitaire : 2025 – 2026
+-Objectif du dépôt
 
-Objectif du dépôt
 
 Ce dépôt regroupe les travaux, projets et exercices réalisés dans le cadre du BUT Informatique – première année.
 Il permet de suivre ma progression et de centraliser les ressources liées aux différentes unités d’enseignement.
 
-Compétences travaillées
+Compétences travaillées :
 
-Algorithmique et logique
+-Algorithmique et logique
 
-Programmation (Python, C, Java selon les cours)
+-Programmation (Python, C, Java selon les cours)
 
-Bases de données (SQL)
+-Bases de données (SQL)
 
-Architecture des ordinateurs
+-Architecture des ordinateurs
 
-Systèmes et réseaux
+-Systèmes et réseaux
 
-Méthodes de travail en informatique
+-Méthodes de travail en informatique
 
-Travail en groupe et gestion de projet
+-Travail en groupe et gestion de projet
 
-Outils utilisés
+Outils utilisés :
 
-Langages : Python, C, SQL (selon les modules)
+-Langages : Python, C, SQL (selon les modules)
 
-Environnements : VS Code, Git, GitHub
+-Environnements : VS Code, Git, GitHub
 
-Systèmes : Linux / Windows
+-Systèmes : Linux / Windows
 
-Autres : Markdown, terminal
+-Autres : Markdown, terminal
 
-Remarques
+Remarques :
 
-Les projets sont réalisés dans un cadre pédagogique
-
-Certains codes peuvent être améliorés ultérieurement
+-Les projets sont réalisés dans un cadre pédagogique
 
 Le dépôt est susceptible d’évoluer tout au long de l’année
 
-Contact
+Contact:
 
 dimitri.ducloux@etu.unilim.fr
 IUT du Limousin – Département Informatique
